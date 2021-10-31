@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+}
+
+b {
+    margin-left: 40%;
+}
+
+.bar1 {
+    margin-left: 150px;
+    width: 250px;
+    height: 100px;
+    float: left;
+    text-decoration: underline;
+    padding: 10px;
+    background-color: rgb(137, 137, 221);
+}
+
+.bar2 {
+    margin-left: 150px;
+    width: 250px;
+    height: 100px;
+    float: left;
+    text-decoration: underline;
+    padding: 10px;
+    background-color: rgb(137, 137, 221)
+}
+
+.bar3 {
+    margin-left: 150px;
+    width: 250px;
+    height: 100px;
+    float: left;
+    text-decoration: underline;
+    padding: 10px;
+    background-color: rgb(137, 137, 221)
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    background-color: rgb(185, 184, 184);
+    padding: 0;
+    margin: auto 15px auto 15px;
+}
+
+.button1 {
+    margin-left: 40%;
+}
+
+.button2 {
+    margin-left: 2%;
+}
+
+.container {
+    margin-left: 50px;
+    width: 1200px;
+    height: 100px;
+    background-color: rgb(125, 125, 236);
+}
+
+div.card {
+    width: 20%;
+    float: left;
+    /* padding verdik yan yana değil biri aşağı düştü o yüzden widthden değer düşeriz
+    ilk değer 33tü şimdi 23 oldu */
+    padding: 5%;
+    
+    margin-right: 3%;
+    background-color: darkblue;
+    border-radius: 10px;
+}
+
+.input1 {
+    margin-top: 0;
+    margin-left: 38%;
+    padding-top: 0;
+    box-sizing: content-box;
+    width: 250px;
+}
+
+.input2 {
+    width: 100px;
+}
+
+.logo {
+    margin: 7% auto auto 35%;
+}
+
+p {
+    margin-left: 37%;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 14px;
+}
+
+
+
+.space {
+    margin-top: 150px;
+}
+
+.yazi {
+    text-align: center;
+}
